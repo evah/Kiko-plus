@@ -13,6 +13,6 @@ permalink: /about/
 - Academic background in biological science and statistics
 - Familiar with Python + R
 - Learning Javascript and Java
-- Love chatting about data science, grow hacking, art, food and kids
-- Minimalist advocate 
+- Love chatting about data science, growth hacking, art, food and kids
+- Minimalism advocate 
 

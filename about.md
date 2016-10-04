@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 #### This blog is about 
-- data mining/machine learning 
+- data mining/machine learning/growth hacking 
 - photography/watercolor painting/UX design
 - a lot of other fun stuff worth sharing
 

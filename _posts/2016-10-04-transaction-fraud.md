@@ -2,7 +2,7 @@
 layout: post
 title: "Fraud(1)"
 description: ""
-date: 2016-10-05
+date: 2016-10-04
 tags: [graph, fraud, transaction]
 comments: true
 share: true
@@ -48,7 +48,13 @@ necessarily be available to a merchant during a legitimate transaction
 8. BIN attack
   - Credit cards are produced in BIN ranges. 
 9. Balance transfer checks
-  
+10. Unexpected repeat billing
+
+By reading the WIKI, the part I do not understand and would like to explore 
+is about "chargeback right" of the issuers to the merchants when the fraud happens, 
+and when that right can be overturned by the merchants. 
+
+
 ## Some interesting finding on Github.com
 [Credit Card Transaction Monitor](https://github.com/vakshorton/CreditCardTransactionMonitor) 
 

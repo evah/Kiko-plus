@@ -11,17 +11,19 @@ share: true
 I have been wondering about fraud for a while, especially transacation fraud and especially after my realizing how much loss it costs credit card companies every day. 
 
 ## What is it and How it works
-[Wiki](https://en.wikipedia.org/wiki/Credit_card_fraud) has explained and illustrated clearly
+[Wiki](https://en.wikipedia.org/wiki/Credit_card_fraud) has explained and illustrated clearly <br>
 
 1. Card fraud begins either with the theft of the physical card or with the compromise of data associated with the account, 
 including the card account number or other information that would routinely and 
 necessarily be available to a merchant during a legitimate transaction
 
-2. Stolen cards
-  - EMV requires passcode
-  - ID or zipcode as additional id verification
-  - "tap" < $100 is susceptible to fraud
+2. Stolen cards<br>
 
+- EMV requires passcode
+- ID or zipcode as additional id verification
+- "tap" < $100 is susceptible to fraud
+
+<br>
 3. Compromised merchants 
   - Name of card holder
   - Card number

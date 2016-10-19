@@ -1,9 +1,9 @@
 ---
-title: Ha! What to expect?
+title: Welcome!
 permalink: /about/
 ---
 
-#### This blog is about 
+#### What is this blog about 
 - data mining/machine learning/growth hacking 
 - photography/watercolor painting/UX design
 - a lot of other fun stuff worth sharing
